@@ -1,0 +1,1 @@
+<a href="mailto:sarah@carsonresearch.com"><font size="1">Contact Sarah</font></a><font size="1"> |  &copy; <?php echo date("Y"); ?></font>
